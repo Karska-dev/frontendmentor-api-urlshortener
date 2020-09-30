@@ -1,0 +1,14 @@
+.Button {
+  background-color: $primary;
+  color: white;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  margin: 0 auto 0 auto;
+  width: 12.5rem;
+  height: 3.6rem;
+  border-radius: 50px;
+  
+}

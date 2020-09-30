@@ -8,5 +8,5 @@ const Header = () => (
   <Humburger />
   </nav>
 )
-
+//Features Pricing Resources Login Sign Up
 export default Header;

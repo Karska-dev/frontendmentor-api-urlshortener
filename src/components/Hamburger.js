@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Hamburger = () => (
-  <a id="btnHamburger" href="#" class="header__toggle hide-for-desktop">
+  <a id="btnHamburger" href="" class="header__toggle hide-for-desktop">
           <span></span>
           <span></span>
           <span></span>

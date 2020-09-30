@@ -18,6 +18,22 @@ body {
 }
 
 
+.Banner {
+  width: 375px;
+  height: 298.5px;
+  background-color: midnightblue;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.Footer {
+  color: white;
+  background-color: $neutralDarkSecondary;
+}
+
 .attribution { 
   font-size: 11px; text-align: center; 
   a { 
